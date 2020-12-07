@@ -1,0 +1,20 @@
+    RADIO_VIBE,             // THE_VIBE             THE VIBE 98.9
+    RADIO_LIBERTY_ROCK,     // LIBERTY_ROCK         LRR 97.8 LIBERTY ROCK RADIO
+    RADIO_JAZZ,             // JAZZ_NATION          JAZZ NATION RADIO 108.5
+    RADIO_MASSIVE,          // BOBBY_KONDERS        MASSIVE B
+    RADIO_K109,             // K109_THE_STUDIO      K 109 THE STUDIO
+    RADIO_WKKT,             // WKTT                 WKTT RADIO
+    RADIO_LCHC,             // HARDCORE             LCHC (WHERE HARDCORE LIVES)
+    RADIO_JOURNEY,          // CLASSICAL_AMBIENT    THE JOURNEY
+    RADIO_FUSION,           // FUSION_FM            FUSION FM
+    RADIO_BEAT,             // BEAT_95              THE BEAT 102.7
+    RADIO_BROKER,           // DANCE_ROCK           RADIO BROKER
+    RADIO_VLADIVOSTOK,      // VLADIVOSTOK          VLADIVOSTOK FM
+    RADIO_PLR,              // PLR                  PLR - PUBLIC LIBERTY RADIO
+    RADIO_SAN_JUAN_SOUNDS,  // SAN_JUAN_SOUNDS      SAN JUAN SOUNDS
+    RADIO_ELECTRO,          // DANCE_MIX            ELECTRO-CHOC
+    RADIO_CLASSICS,         // NY_CLASSICS          THE CLASSICS 104.1
+    RADIO_IF99,             // AFRO_BEAT            IF 99 - INTERNATIONAL FUNK
+    RADIO_TUFF,             // BABYLON              TUFF GONG
+    RADIO_MP3,              // INDEPENDENT          INPEDENDENCE FM
+    RADIO_INTEGRITY         // INTEGRITY            INTEGRITY 2.0
